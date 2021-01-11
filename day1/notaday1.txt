@@ -1,0 +1,13 @@
+Margin
+- margin adalah ruang antara kotak.
+
+HTML
+- element: p, img, a, h1, ul, li, table, tr
+- attribute: scr, href, width
+- entry: &copy, &trade, &gt, &lt
+
+how to center a box
+- you give a box width (eg: 500px)
+- then you give margin : xx px auto;
+
+Montserrat
