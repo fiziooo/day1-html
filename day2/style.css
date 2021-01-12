@@ -35,4 +35,9 @@ width: 25%;
 .col-3{
 	width: 75%;
 }
+.col-bg{
+	background: #212614;
+	padding: 0.5em;
+	color: #fff;
+}
 
