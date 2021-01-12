@@ -23,10 +23,18 @@ h2{
 img	{
 	width:100%;
 }
+
+
+@media(min-width: 800px){
+	body	{
+		background: yellow;
+	}
+}
 .columns {
 	display: flex;
 	margin-bottom: 0.5em;
 	justify-content: space-between;
+	align-items: flex-start;
 }
 .col-1{
 width: 20%;
@@ -42,4 +50,11 @@ width: 20%;
 	padding: 0.5em;
 	color: #fff;
 }
-
+@media(min-width: 600px){
+	.columns{
+		flex-direction: column;
+	}
+	.col-1,.col-2,.col-3{
+		width: 100%;
+	}
+}
