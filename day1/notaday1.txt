@@ -10,4 +10,6 @@ how to center a box
 - you give a box width (eg: 500px)
 - then you give margin : xx px auto;
 
-Montserrat
+Element
+- Blok Element - h1,h2.h3.h4 p, ol, ul, li, div
+- 

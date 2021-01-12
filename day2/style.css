@@ -1,0 +1,38 @@
+body	{
+	font-size: 1.125em;
+	color: #707070;
+	margin: 0;
+}
+h1{
+	font-size: 3em;
+	color: #212614;
+	text-align: center;
+}
+
+h1 span{
+	color: #b7832f;
+}
+h2{
+	font-size: 1.5em;
+}
+
+	.container{
+	width: 90%;
+	margin: 0 auto;
+}
+img	{
+	width:100%;
+}
+.columns {
+	display: flex;
+}
+.col-1{
+width: 25%;
+}
+.col-2{
+	width: 50%;
+}
+.col-3{
+	width: 75%;
+}
+
